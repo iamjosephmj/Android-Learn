@@ -14,4 +14,7 @@
     <string name="token">TOKEN</string>
     <string name="submit">Submit</string>
     <string name="an_error_occurred">An Error Occurred</string>
+    <string name="app_id_prefill">1246</string>
+    <string name="u_id_prefill">superman</string>
+    <string name="token_prefill">82085b8b7b31b3e80beefdc0430e2315f67cd3e1</string>
 </resources>
